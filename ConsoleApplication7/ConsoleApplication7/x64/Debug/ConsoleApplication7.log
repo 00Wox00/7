@@ -1,0 +1,4 @@
+﻿  ConsoleApplication7.cpp
+C:\Users\sasha\source\repos\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(30,41): warning C4101: e: неиспользованная локальная переменная
+C:\Users\sasha\source\repos\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(34,37): warning C4101: e: неиспользованная локальная переменная
+  ConsoleApplication7.vcxproj -> C:\Users\sasha\source\repos\ConsoleApplication7\x64\Debug\ConsoleApplication7.exe
